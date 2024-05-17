@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-google-adsense/apple-touch-icon.png"
   },
   {
-    "revision": "1684158e67c864309af9",
+    "revision": "a9ce0424e24bfbf4ddd8",
     "url": "/vue-google-adsense/css/app.d53675ef.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-google-adsense/favicon-32x32.png"
   },
   {
-    "revision": "31aab09a9f2470db849106ca18055c97",
+    "revision": "e0134ce6fee6dfc176f4e17ea01c3c23",
     "url": "/vue-google-adsense/index.html"
   },
   {
-    "revision": "1684158e67c864309af9",
-    "url": "/vue-google-adsense/js/app.78faeb6e.js"
+    "revision": "a9ce0424e24bfbf4ddd8",
+    "url": "/vue-google-adsense/js/app.922013df.js"
   },
   {
     "revision": "b3229755557dcf2b4c96",
