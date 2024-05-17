@@ -44,7 +44,7 @@
       <div class="ads">
         <b-row align="center" justify="center" direction="column">
           <c-box w="100%" overflow="hidden">
-            <InArticleAdsense style="width: 100%; min-width: 250px" data-ad-client="ca-pub-5442972248172818" data-ad-slot="7974047383" />
+            <InArticleAdsense style="width: 100%; min-width: 250px" data-ad-client="ca-pub-1704232244159148" data-ad-slot="2942284454" />
           </c-box>
         </b-row>
       </div>
@@ -74,7 +74,7 @@
 
         <b-row align="center" justify="center" direction="column">
           <c-box minW="sm" overflow="hidden">
-            <InArticleAdsense style="min-width: 250px" data-ad-client="ca-pub-5442972248172818" data-ad-slot="2669016517" />
+            <InArticleAdsense style="min-width: 250px" data-ad-client="ca-pub-1704232244159148" data-ad-slot="2942284454" />
           </c-box>
         </b-row>
 
@@ -109,7 +109,7 @@
       <div class="ads">
         <b-row align="center" justify="center" direction="column">
           <c-box w="100%" overflow="hidden">
-            <InArticleAdsense style="width: 100%; min-width: 250px" data-ad-client="ca-pub-5442972248172818" data-ad-slot="7974047383" />
+            <InArticleAdsense style="width: 100%; min-width: 250px" data-ad-client="ca-pub-1704232244159148" data-ad-slot="2942284454" />
           </c-box>
         </b-row>
       </div>
@@ -139,7 +139,7 @@
           <Adsense
             style="width: 100%; min-width: 250px"
             ins-style="display:inline-block;width:728px;height:90px"
-            data-ad-client="ca-pub-5442972248172818"
+            data-ad-client="ca-pub-1704232244159148"
             data-ad-slot="7319719723"
           >
           </Adsense>

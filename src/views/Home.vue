@@ -46,7 +46,7 @@
     <section class="container ads">
       <b-row align="center" justify="center" direction="column">
         <b-card w="100%" border-width="1px" rounded="lg" overflow="hidden">
-          <InArticleAdsense style="width: 100%; min-width: 250px" data-ad-client="ca-pub-5442972248172818" data-ad-slot="7974047383" />
+          <InArticleAdsense style="width: 100%; min-width: 250px" data-ad-client="ca-pub-1704232244159148" data-ad-slot="2942284454" />
         </b-card>
       </b-row>
     </section>

@@ -18,8 +18,8 @@
             root-class="wrapper VueInFeedAdsense"
             ins-class="ins-custom"
             data-ad-layout-key="-6h+ed+1l-6o+ab"
-            data-ad-client="ca-pub-5442972248172818"
-            data-ad-slot="5701222588s"
+            data-ad-client="ca-pub-1704232244159148"
+            data-ad-slot="2942284454"
           />
         </c-box>
         <ImageCard />
@@ -37,8 +37,8 @@
             root-class="wrapper VueInFeedAdsense"
             ins-class="ins-custom"
             data-ad-layout-key="-6h+ed+1l-6o+ab"
-            data-ad-client="ca-pub-5442972248172818"
-            data-ad-slot="5701222588s"
+            data-ad-client="ca-pub-1704232244159148"
+            data-ad-slot="2942284454"
           />
         </c-box>
       </c-stack>
@@ -68,8 +68,8 @@
           <Adsense
             style="width: 100%; min-width: 250px"
             ins-style="display:inline-block;width:728px;height:90px"
-            data-ad-client="ca-pub-5442972248172818"
-            data-ad-slot="7319719723"
+            data-ad-client="ca-pub-1704232244159148"
+            data-ad-slot="2942284454"
           >
           </Adsense>
         </c-box>
